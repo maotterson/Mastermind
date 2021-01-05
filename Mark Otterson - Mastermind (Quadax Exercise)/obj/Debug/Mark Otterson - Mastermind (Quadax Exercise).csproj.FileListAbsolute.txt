@@ -1,0 +1,6 @@
+C:\Users\otter\source\repos\Mark Otterson - Mastermind (Quadax Exercise)\Mark Otterson - Mastermind (Quadax Exercise)\bin\Debug\Mark Otterson - Mastermind (Quadax Exercise).exe.config
+C:\Users\otter\source\repos\Mark Otterson - Mastermind (Quadax Exercise)\Mark Otterson - Mastermind (Quadax Exercise)\bin\Debug\Mark Otterson - Mastermind (Quadax Exercise).exe
+C:\Users\otter\source\repos\Mark Otterson - Mastermind (Quadax Exercise)\Mark Otterson - Mastermind (Quadax Exercise)\bin\Debug\Mark Otterson - Mastermind (Quadax Exercise).pdb
+C:\Users\otter\source\repos\Mark Otterson - Mastermind (Quadax Exercise)\Mark Otterson - Mastermind (Quadax Exercise)\obj\Debug\Mark Otterson - Mastermind (Quadax Exercise).csprojAssemblyReference.cache
+C:\Users\otter\source\repos\Mark Otterson - Mastermind (Quadax Exercise)\Mark Otterson - Mastermind (Quadax Exercise)\obj\Debug\Mark Otterson - Mastermind (Quadax Exercise).exe
+C:\Users\otter\source\repos\Mark Otterson - Mastermind (Quadax Exercise)\Mark Otterson - Mastermind (Quadax Exercise)\obj\Debug\Mark Otterson - Mastermind (Quadax Exercise).pdb
